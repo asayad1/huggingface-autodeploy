@@ -1,0 +1,5 @@
+huggingface_hub
+kubernetes
+prefect
+docker
+tqdm
